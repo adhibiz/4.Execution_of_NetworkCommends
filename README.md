@@ -1,6 +1,5 @@
 # 4.Execution_of_NetworkCommands
-### NAME: KARTHIKEYAN R
-### REG.NO:212222240046
+
 
 ## AIM :Use of Network commands in Real Time environment
 ## Software : Command Prompt And Network Protocol Analyzer
