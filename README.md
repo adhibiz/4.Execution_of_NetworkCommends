@@ -27,6 +27,19 @@ This commands includes
 <BR>
 
 ## Output
+### ipconfig 
+![Ipconfig](https://github.com/user-attachments/assets/d1a569aa-8d28-4b92-93e0-1717ea7f32ae)
+### ping
+![ping](https://github.com/user-attachments/assets/1e4c6491-89d9-487c-82d1-2c37d94e03bb)
+
+### nbtstat
+![Nbtstat](https://github.com/user-attachments/assets/09cb5d5c-5c5d-4c21-873e-7fa562ba0eaf)
+
+### netstat
+![Netstat](https://github.com/user-attachments/assets/02acc960-fc25-40fd-9bd3-d962d7d1ec25)
+
+### nslookup
+![Server](https://github.com/user-attachments/assets/83c6e9fd-f5e4-4e97-8e96-c150012b34fe)
 
 ## Result
 Thus Execution of Network commands Performed 
